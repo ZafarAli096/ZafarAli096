@@ -10,13 +10,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamad-anwar" alt="hamad-anwar" /></a> </p>
 
-- 🌱 I’m currently learning **flutter**
+- 🌱 I’m currently learning **PHP/Laravel**
 
-- 💬 Ask me about **flutter, dart**
+- 💬 Ask me about **PHP, Laravel**
 
-- 📫 How to reach me **fa21-bse-010@students.cuisahiwal.edu.pk**
-
-- ⚡ Fun fact **Flutter = Future**
+- 📫 How to reach me **zafaraliab@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
